@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/susantadas2003.github.io/keeperApp/static/css/main.2dfb942e.css",
-    "main.js": "/susantadas2003.github.io/keeperApp/static/js/main.9d0c3a12.js",
-    "index.html": "/susantadas2003.github.io/keeperApp/index.html",
-    "main.2dfb942e.css.map": "/susantadas2003.github.io/keeperApp/static/css/main.2dfb942e.css.map",
-    "main.9d0c3a12.js.map": "/susantadas2003.github.io/keeperApp/static/js/main.9d0c3a12.js.map"
+    "main.css": "/KeeperApp/static/css/main.2dfb942e.css",
+    "main.js": "/KeeperApp/static/js/main.9d0c3a12.js",
+    "index.html": "/KeeperApp/index.html",
+    "main.2dfb942e.css.map": "/KeeperApp/static/css/main.2dfb942e.css.map",
+    "main.9d0c3a12.js.map": "/KeeperApp/static/js/main.9d0c3a12.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfb942e.css",
